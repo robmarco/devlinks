@@ -8,7 +8,7 @@ Créditos
 
 Muchas gracias, [desarrolladores](https://github.com/robmarco/devlinks/graphs/contributors)!
 
-![CROCODΞ](http://crocode.mobi/web/images/gh/crocode.png)
+![CROCODΞ](http://crocode.mobi/images/crocode_logo.png)
 
 DevLinks está mantenido por [Roberto Marco Sánchez – CROCODΞ](http://www.crocode.mobi).
 
