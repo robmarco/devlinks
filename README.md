@@ -16,7 +16,7 @@ Rails
 * **Patrones de Diseño**
 	* [Patrón de diseño: Finder](http://twin.github.io/finder-objects/). Enlaza con este tutorial [Profundizando en patrón de diseño Finder](http://vaidehijoshi.github.io/blog/2015/10/27/digging-into-the-finder-object-pattern/)
 
-* **Fixing Bugs **
+* **Fixing Bugs**
 	* [OpenSSL en Ruby 2.2.3: solución de error en El Capitán](http://siawyoung.com/coding/ruby/openssl-ruby-223-rvm.html)
 
 Heroku
