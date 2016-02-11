@@ -24,6 +24,7 @@ Heroku
 
 * [Configurar SLL gratuito de CloudFlare en Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku). Imprescindible si usas Heroku
 * [Heroku: Understanding Performance and Scale](https://www.safaribooksonline.com/library/view/heroku-up-and/9781449341381/ch03.html)
+* [Different s3 buckkets for staging and production app] (http://stackoverflow.com/questions/7197725/different-s3-buckets-for-staging-app-vs-production-app)
 
 AngularJS
 ---------
