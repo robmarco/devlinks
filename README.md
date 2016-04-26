@@ -25,6 +25,7 @@ ElasticSearch
 * **Intro**
 	* [Introducción a ElasticSearch](http://aluxion.com/blog/introduccion-a-elasticsearch/) - Conceptos básicos sobre Elasticsearch
 	* [Intro to ElasticSearch RoR](http://aaronvb.com/articles/intro-to-elasticsearch-ruby-on-rails-part-1.html) - Básicamente cómo utilizar el método as_indexed_json
+	* [ElasticSearch Model](https://github.com/elastic/elasticsearch-rails/tree/master/elasticsearch-model)
 	
 Heroku
 ------
