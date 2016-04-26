@@ -19,6 +19,13 @@ Rails
 * **Fixing Bugs**
 	* [OpenSSL en Ruby 2.2.3: solución de error en El Capitán](http://siawyoung.com/coding/ruby/openssl-ruby-223-rvm.html)
 
+ElasticSearch
+-------------
+
+* **Intro**
+	* [Introducción a ElasticSearch](http://aluxion.com/blog/introduccion-a-elasticsearch/) - Basic concepts
+	* [Intro to ElasticSearch RoR](http://aaronvb.com/articles/intro-to-elasticsearch-ruby-on-rails-part-1.html) - talk about the as_indexed_json method
+	
 Heroku
 ------
 
