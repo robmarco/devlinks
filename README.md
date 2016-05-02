@@ -50,6 +50,10 @@ Diseño
 
 * [Galerías con buenos diseños de Emails](http://reallygoodemails.com/category/announcement/)
 
+Tipos de Licencias
+------------------
+
+* [GPL vs Mit Licence](https://lukasa.co.uk/2012/05/GPL_vs_MIT_Which_License_To_Use/)
 
 Créditos
 --------
