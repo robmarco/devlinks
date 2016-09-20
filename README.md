@@ -25,6 +25,8 @@ Rails
 
 * **Fixing Bugs**
 	* [OpenSSL en Ruby 2.2.3: solución de error en El Capitán](http://siawyoung.com/coding/ruby/openssl-ruby-223-rvm.html)
+* **DateTimes and Time zones**
+	* [Working with time zones in RoR - DOs and DONTs](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
 
 ElasticSearch
 -------------
