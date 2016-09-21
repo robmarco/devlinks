@@ -27,6 +27,8 @@ Rails
 	* [OpenSSL en Ruby 2.2.3: solución de error en El Capitán](http://siawyoung.com/coding/ruby/openssl-ruby-223-rvm.html)
 * **DateTimes and Time zones**
 	* [Working with time zones in RoR - DOs and DONTs](https://www.varvet.com/blog/working-with-time-zones-in-ruby-on-rails/)
+* **Excel**
+	* [Reference: XML in Excel and the Spreadsheet Component](https://msdn.microsoft.com/en-us/library/aa140062(v=office.10).aspx)
 
 ElasticSearch
 -------------
